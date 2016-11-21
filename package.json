@@ -1,0 +1,31 @@
+{
+  "name": "cxl-chain",
+  "version": "0.0.0-1",
+  "description": "Build a chain of chainables",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cellanda/cxl-js-chain.git"
+  },
+  "keywords": [
+    "chainable"
+  ],
+  "author": "Terry Pothecary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cellanda/cxl-js-chain/issues"
+  },
+  "homepage": "https://github.com/cellanda/cxl-js-chain"
+}

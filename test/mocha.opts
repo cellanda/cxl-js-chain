@@ -1,0 +1,7 @@
+--reporter spec
+--timeout 2s
+--growl
+--check-leaks
+--ui bdd
+./test --recursive
+
